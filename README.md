@@ -67,12 +67,13 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&locale=en&theme=radical" alt="MinzNhat stats" width="400" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinzNhat&theme=radical" alt="MinzNhat streak" width="400" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="400" />
     </td>
+    
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="800" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinzNhat&theme=radical" alt="MinzNhat streak" width="800" />
     </td>
   </tr>
 </table>
