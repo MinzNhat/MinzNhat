@@ -80,6 +80,8 @@
 ---
 
 <h3 align="left">Achievements:</h3>
-- 🏆 Completed multiple projects using **React** and **Next.js** with a focus on **scalability** and **performance**.  
-- ✨ Actively contributed to open-source repositories and received positive feedback for **bug fixes** and **feature additions**.  
-- 🌟 Recognized for creating visually appealing, user-friendly web interfaces.  
+<ul>
+  <li>🏆 Completed multiple projects using <strong>React</strong> and <strong>Next.js</strong> with a focus on <strong>scalability</strong> and <strong>performance</strong>.</li>
+  <li>✨ Actively contributed to open-source repositories and received positive feedback for <strong>bug fixes</strong> and <strong>feature additions</strong>.</li>
+  <li>🌟 Recognized for creating visually appealing, user-friendly web interfaces.</li>
+</ul>
