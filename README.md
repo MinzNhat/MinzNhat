@@ -10,7 +10,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/nhat2004cv/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhat2004cv" height="30" width="40" />
 </a>
@@ -22,7 +22,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -67,13 +67,12 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&locale=en&theme=radical" alt="MinzNhat stats" width="400" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="400" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinzNhat&theme=radical" alt="MinzNhat streak" width="400" />
     </td>
-    
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinzNhat&theme=radical" alt="MinzNhat streak" width="800" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="800" />
     </td>
   </tr>
 </table>
