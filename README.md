@@ -22,6 +22,13 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+<table align="center">
+    <tr>
+    <td align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="420" />
+    </td>
+    </tr>
+</table>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -57,14 +64,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
-<table align="center">
-<tr>
-<td align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=radical" alt="Top languages" width="400" />
-</td>
-</tr>
-</table>
 
 ---
 
