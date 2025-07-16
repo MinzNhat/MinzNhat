@@ -73,9 +73,6 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&locale=en&theme=radical" alt="MinzNhat stats" width="400" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinzNhat&theme=radical" alt="MinzNhat streak" width="400" />
-    </td>
   </tr>
 </table>
 
