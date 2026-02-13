@@ -12,15 +12,17 @@ Unlike a typical full-stack developer, my focus is on System Integrity and Phygi
 
 ## Featured Engineering Projects
 
-### [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
+#### [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
 A stateless, production-grade microservice for generating "Copy-Sensitive" QR codes.
 * **Role:** Service Designer.
 * **Core Tech:** Python (OpenCV/NumPy), Node.js (Gateway), Docker.
 * **Key Challenge:** Maintaining QR Error Correction Level H while embedding a physical security pattern.
 * **Solution:** Engineered a strictly typed 34-byte binary packing protocol to ensure deterministic QR generation. The service is fully containerized and stateless, ready for horizontal scaling.
 
-## 🛠 Technical Arsenal
+## Technical Arsenal
 
+<div align="center">
+  
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Mobile Engineering** | React Native, Kotlin |
@@ -30,9 +32,11 @@ A stateless, production-grade microservice for generating "Copy-Sensitive" QR co
 | **Database & Storage** | MongoDB, OracleDB, Redis (Caching) |
 | **DevOps & Infra** | Docker, Shell Scripting, CI/CD Pipelines |
 
+</div>
+
 <br />
 
-<div align="center">
+<div align="center" width="100%">
   <img src="https://img.shields.io/badge/React_Native-151515?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Kotlin-151515?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -54,17 +58,17 @@ A stateless, production-grade microservice for generating "Copy-Sensitive" QR co
   <img src="https://streak-stats.demolab.com?user=MinzNhat&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
-## 📫 Connect
+## Connect
 
 <div align="center">
   <a href="mailto:nhat.dang2004.cv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/nhat2004cv/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://github.com/MinzNhat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
