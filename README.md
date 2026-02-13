@@ -1,14 +1,12 @@
 # Đặng Minh Nhật
 
-**Software Engineer | Blockchain Researcher | Ho Chi Minh City, Vietnam**
+**Software Engineer | Full-stack Developer | Blockchain Researcher | Ho Chi Minh City, Vietnam**
 
-> *"Building trust in digital systems through deterministic architecture and cryptographic proofs."*
+> *"Bridging the gap between immutable system integrity and seamless user experiences."*
 
 ## Profile
 
-I am a Computer Science major at Ho Chi Minh City University of Technology (HCMUT), specializing in the intersection of Blockchain, and Distributed Systems.
-
-Unlike a typical full-stack developer, my focus is on System Integrity and Phygital Security (Physical + Digital). I engineer solutions that bridge the gap between physical supply chains and immutable digital ledgers, ensuring transparency from manufacturing to end-users.
+Software Engineer & Computer Science student at HCMUT, specializing in the synergy between System Integrity and Modern Web/Mobile Applications. While I have a deep foundation in Distributed Systems and Blockchain (Phygital Security), I am equally passionate about building intuitive, high-performance user interfaces. I bridge the gap between complex back-end architectures and seamless front-end experiences, ensuring that every digital solution is not only immutable and secure but also accessible and user-centric.
 
 ## Featured Engineering Projects
 
