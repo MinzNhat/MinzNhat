@@ -1,43 +1,64 @@
 # Đặng Minh Nhật
 
-**Software Engineer | Blockchain & AI Researcher** 📍 Ho Chi Minh City, Vietnam
+**Software Engineer | Blockchain Researcher**
+📍 Ho Chi Minh City, Vietnam
+
+> *"Building trust in digital systems through deterministic architecture and cryptographic proofs."*
 
 ---
 
-### 🚀 Professional Summary
+## 👨‍💻 Professional Profile
 
-I am a Computer Science major at **Ho Chi Minh City University of Technology (HCMUT)** with a strong focus on **System Architecture**, **Blockchain (Hyperledger Fabric)**, and **Computer Vision**.
+I am a Computer Science major at Ho Chi Minh City University of Technology (HCMUT), specializing in the intersection of Blockchain, and Distributed Systems.
 
-My engineering philosophy centers on building **scalable, secure, and deterministic systems**. I specialize in bridging the gap between physical supply chains and digital ledgers using "Phygital" technologies.
+Unlike a typical full-stack developer, my focus is on System Integrity and Phygital Security (Physical + Digital). I engineer solutions that bridge the gap between physical supply chains and immutable digital ledgers, ensuring transparency from manufacturing to end-users.
 
-### 🛠 Tech Stack & Proficiency
+---
 
-| Domain | Technologies |
+## 🏗 Featured Engineering Projects
+
+### 1. [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
+A stateless, production-grade microservice for generating "Copy-Sensitive" QR codes.
+* **Role:** Service Designer.
+* **Core Tech:** Python (OpenCV/NumPy), Node.js (Gateway), Docker.
+* **Key Challenge:** Maintaining QR Error Correction Level H while embedding a physical security pattern.
+* **Solution:** Engineered a strictly typed 34-byte binary packing protocol to ensure deterministic QR generation. The service is fully containerized and stateless, ready for horizontal scaling.
+
+---
+
+## 🛠 Technical Arsenal
+
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Core Languages** | TypeScript (Node.js), Python, C++ |
-| **Blockchain** | Hyperledger Fabric, Chaincode (Go/Node.js), Raft Consensus |
-| **AI & Vision** | YOLOv8, OpenCV, NumPy, Phygital Pattern Recognition |
-| **Backend & DB** | Express.js, MongoDB, CouchDB (World State), Redis |
-| **DevOps & Tools** | Docker, Docker Compose, Swagger/OpenAPI, Git Flow |
-
-### 🔭 Featured Engineering Projects
-
-#### 1. [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
-A standalone, production-grade microservice for generating and verifying copy-sensitive QR codes.
-- **Design:** Fixed-Geometry physical-digital twin generator.
-- **Key Tech:** Python (Core), Node.js (Wrapper), Docker.
-- **Highlights:** Engineered a strict 34-byte binary packing protocol to maintain QR Error Correction Level H while embedding a 154px physical security pattern.
-
-### 📊 GitHub Activity
-
-![MinzNhat's Stats](https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=000&text_color=333&icon_color=000)
-
-### 📫 Contact
-
-* **Email:** nhat.dang2004.cv@gmail.com
-* **LinkedIn:** [linkedin.com/in/nhat2004cv](https://linkedin.com/in/nhat2004cv/)
+| **Mobile Engineering** | React Native, Kotlin |
+| **Frontend Engineering** | ReactJS, NextJS, AngularJS, Websquare5 |
+| **Backend Engineering** | Node.js (TypeScript), Express, NestJS |
+| **Blockchain Core** | Hyperledger Fabric, Chaincode (Node.js), IPFS |
+| **Database & Storage** | MongoDB, OracleDB, Redis (Caching) |
+| **DevOps & Infra** | Docker, Shell Scripting, CI/CD Pipelines |
 
 ---
-<p align="left" style="font-size: 12px; color: #666;">
-  <i>"Simplicity is the ultimate sophistication."</i>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/MinzNhat">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000" alt="MinzNhat's Github Stats" />
+  </a>
+  <a href="https://github.com/MinzNhat">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+## 📫 Connect
+
+* **Email:** [nhat.dang2004.cv@gmail.com](mailto:nhat.dang2004.cv@gmail.com)
+* **LinkedIn:** [linkedin.com/in/nhat2004cv](https://linkedin.com/in/nhat2004cv/)
+* **Portfolio:** [github.com/MinzNhat](https://github.com/MinzNhat)
+
+<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 </p>
