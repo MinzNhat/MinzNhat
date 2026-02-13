@@ -1,13 +1,12 @@
 # Đặng Minh Nhật
 
-**Software Engineer | Blockchain Researcher**
-📍 Ho Chi Minh City, Vietnam
+**Software Engineer | Blockchain Researcher | Ho Chi Minh City, Vietnam**
 
 > *"Building trust in digital systems through deterministic architecture and cryptographic proofs."*
 
 ---
 
-## 👨‍💻 Professional Profile
+## Profile
 
 I am a Computer Science major at Ho Chi Minh City University of Technology (HCMUT), specializing in the intersection of Blockchain, and Distributed Systems.
 
@@ -15,9 +14,9 @@ Unlike a typical full-stack developer, my focus is on System Integrity and Phygi
 
 ---
 
-## 🏗 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 1. [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
+### [SecureQR Microservice](https://github.com/MinzNhat/Protected_QR)
 A stateless, production-grade microservice for generating "Copy-Sensitive" QR codes.
 * **Role:** Service Designer.
 * **Core Tech:** Python (OpenCV/NumPy), Node.js (Gateway), Docker.
@@ -39,15 +38,17 @@ A stateless, production-grade microservice for generating "Copy-Sensitive" QR co
 
 ---
 
-## 📊 GitHub Analytics
+## Engineering Metrics
 
 <div align="center">
-  <a href="https://github.com/MinzNhat">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000" alt="MinzNhat's Github Stats" />
-  </a>
-  <a href="https://github.com/MinzNhat">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000" alt="Top Languages" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=MinzNhat&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinzNhat&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000&text_color=333&icon_color=000" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinzNhat&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="Top Languages" height="150" />
 </div>
 
 ---
